@@ -1,0 +1,85 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Data_Entry_DesktopApp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "varCustDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Data_Entry_WebApp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "RowID&Sequence_3",
+        "varPassword&Sequence_3",
+        "varCustDT&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Migrate Data into Web App.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "varPassword&Sequence_1",
+        "dt_Customers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Classic Workflows/Data_Entry_WebApp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "varCustDT&Sequence_3",
+        "varPassword&Sequence_3",
+        "RowID&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Classic Workflows/Data_Entry_DesktopApp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "varCustDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Migrate Data into Desktop App.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Customers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
