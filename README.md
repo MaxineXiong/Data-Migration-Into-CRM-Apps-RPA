@@ -9,7 +9,7 @@
 
 This repository contains **RPA (Robotic Process Automation)** solutions developed using **[UiPath Automation Platform](http://www.uipath.com)**. The RPA robots are designed to automate repetitive and time-consuming data entry tasks to streamline customer data entry into both CRM web and desktop applications simultaneously. By utilizing UiPath's automation capabilities, this project aims to drastically improve efficiency and accuracy, reducing manual data entry efforts that would take hours for humans to complete down to just a few minutes.
 
-This repository hosts three types of RPA workflows, including ***Simultaneous Data Migration (Modern Solution)*** that was developed in **Modern design**, ***Dispatcher and Performer Bot with Orchestrator Queues*** that is integrated with [**UiPath Orchestrator Queue**](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/about-queues-and-transactions), and the classic solution that was built with classic design. 
+This repository hosts three types of RPA workflows, including ***Simultaneous Data Migration (Modern Solution)*** that was developed in **Modern design**, ***Dispatcher and Performer Bot with Orchestrator Queues*** that is integrated with [**UiPath Orchestrator Queue**](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/about-queues-and-transactions), and the classic solution (in *Archive* folder) that was built with classic design. 
 
 _You can check out the **automation demo video** by clicking on the badge below_:
 
