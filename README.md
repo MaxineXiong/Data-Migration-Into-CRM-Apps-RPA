@@ -9,7 +9,7 @@
 
 This repository contains **RPA (Robotic Process Automation)** solutions developed using **[UiPath Automation Platform](http://www.uipath.com)**. The RPA robots are designed to automate repetitive and time-consuming data entry tasks to streamline customer data entry into both CRM web and desktop applications simultaneously. By utilizing UiPath's automation capabilities, this project aims to drastically improve efficiency and accuracy, reducing manual data entry efforts that would take hours for humans to complete down to just a few minutes.
 
-This repository hosts three types of RPA workflows, including ***Simultaneous Data Migration (Modern Solution)*** that was developed in **Modern design**, ***Dispatcher and Performer Bot with Orchestrator Queues*** that is integrated with [**UiPath Orchestrator Queue**](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/about-queues-and-transactions), and the classic solution (in *Archive* folder) that was built with classic design. 
+This repository hosts three types of RPA workflows, including ***Simultaneous Data Migration (Modern Solution)*** that was developed in **Modern design**, ***Dispatcher and Performer Bot with Queues in REFramework*** that is integrated with [**UiPath Orchestrator Queue**](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/about-queues-and-transactions) and developed in [**Robotic Enterprise Framework (REFramework)**](https://docs.uipath.com/studio/standalone/2023.4/user-guide/robotic-enterprise-framework), and the classic solution (in *Archive* folder) that was built with classic design. 
 
 _You can check out the **automation demo video** by clicking on the badge below_:
 
@@ -173,7 +173,7 @@ To run the RPA workflow on your local machine, follow these steps:
 
 1. Either **download** this repository to your local machine or **clone** it directly within your UiPath Studio.
 2. Open the **UiPath Studio** software on your machine.
-3. Locate and **open** the **Main.xaml** file in either *Simultaneous Data Migration (Modern Solution)*, *Dispatcher and Performer Bot with Orchestrator Queues*, or *ARCHIVE (Classic Solution)* folder from the downloaded repository in **UiPath Studio**.
+3. Locate and **open** the **Main.xaml** file in either *Simultaneous Data Migration (Modern Solution)*, *Dispatcher and Performer Bot with Queues in REFramework*, or *ARCHIVE (Classic Solution)* folder from the downloaded repository in **UiPath Studio**.
 4. **Run** the **Main.xaml** file to initiate the automated data migration processes for both the CRM web app and desktop app.
 
 Please note that the robot is designed to work with specific CRM applications, and adjustments might be needed if you intend to use it with different systems.
