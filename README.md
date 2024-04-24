@@ -71,7 +71,7 @@ Step 7: Follow the system instructions to complete the installation of **UiPath 
 </details> 
 
 <details>  
-<summary> Please also follow these steps below to connect your local machine to the UiPath Automation Cloud for accessing Orchestrator Queues and deploying unattended robots:
+<summary> Please also follow these steps below to connect your local machine to the UiPath Automation Cloud for accessing Orchestrator Queues or deploying this workflow:
 </summary>
 
 ***
